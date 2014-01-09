@@ -1,0 +1,76 @@
+*{
+	font-family: helvetica;
+}
+
+.survey .row{
+	margin: 7px 0px;
+}
+
+.survey .col{
+	width: 170px;
+	display: inline-block;
+}
+
+.field{
+	width: 150px;
+}
+
+
+form input[type="submit"]{
+	border: none;
+	border-radius: 1px;
+	background: #0F71E1;
+	color: white;
+	padding: 5px 7px;
+	font-size: 12px;
+}
+
+.survey{
+	border: 1px solid;
+	margin: 0 auto;
+	width: 345px;
+	padding: 20px;
+}
+
+.error{
+	color: red;
+}
+
+.feedback{
+	border: 1px solid;
+	margin: 0 auto;
+	width: 400px;
+	padding: 20px;
+	background: #A9D097;
+	margin-bottom: 20px;
+}
+
+.results{
+	border: 1px solid;
+	margin: 0 auto;
+	width: 400px;
+	padding: 20px;
+}
+
+.results h2{
+	text-decoration: underline;
+}
+
+.results p{
+	margin: 3px 0px;
+	padding: 0;
+	display: inline-block;
+}
+
+.info{
+	margin-left: 20px;
+}
+
+.info .row{
+	margin: 7px 0px;
+}
+
+.info .col{
+	width: 180px;
+	display: inline-block;
+}
